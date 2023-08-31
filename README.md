@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcb12
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on building emebede system through python
+- 💞️ I’m looking to collaborate on building embeded system through python
 - 📫 How to reach me  haulesteve@gmail.com
 
 <!---
