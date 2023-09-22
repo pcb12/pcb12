@@ -1,0 +1,7 @@
+Natakiwa kuweka kodi za kucontrol tank kubwa la maji
+na kutuma sms kuwasha buzzer..
+1.Ntakiwa kumalizia ishu ya password kuweka mpya kwa kutumia ya
+zamani kwa kusave kwenye eeprom.
+2.Natakiwa kumalizia kuweka namba ya simu ya zaman na kusavempya.
+3.Natakiwa kuongeza mfumo wa set mda wa maji ya chanjo yanapo tumika.
+4.
